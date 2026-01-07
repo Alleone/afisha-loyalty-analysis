@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# venvs
+my_venv/
+my_venv311/
+test_env/
+.venv/
+venv/
+env/
+
+# python cache
+__pycache__/
+*.py[cod]
+
+# dotenv
+.env
+.env.*
+
+my_sample.csv
