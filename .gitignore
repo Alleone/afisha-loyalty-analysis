@@ -20,4 +20,6 @@ __pycache__/
 .env
 .env.*
 
+!.env.example
+
 my_sample.csv
