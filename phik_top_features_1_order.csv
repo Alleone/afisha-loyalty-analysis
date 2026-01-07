@@ -1,6 +1,0 @@
-feature_1,feature_2,phi_k
-avg_days_between_orders,first_region,0.9357724704244093
-avg_days_between_orders,first_service,0.8491368490252403
-first_service,first_region,0.6676908915656998
-first_service,first_event_type,0.5879651918334161
-first_event_type,avg_days_between_orders,0.517091468627207
